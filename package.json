@@ -1,6 +1,6 @@
 {
-  "name": "mm2800-atm",
-  "version": "2.2.1",
+  "name": "mm2800-atm-machine",
+  "version": "3.3.3",
   "description": "This is ATM Machine.",
   "main": "index.js",
   "type": "module",
